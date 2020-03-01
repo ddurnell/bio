@@ -9,12 +9,13 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 150%;
-  color: #333;
+  color: white;
   background: #efeee7;
-}
+  background-image: url("./images/stars.gif"), url("paper.gif");
+  background-color: #cccccc;}
 
 header {
-  background: #333;
+  background:rgb(46, 6, 110);
 }
 
 h1 {
